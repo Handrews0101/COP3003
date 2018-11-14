@@ -30,6 +30,8 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+// I don't know if I need the copyright or not but here it is. I don't want to plagerize :) 
+
 package colorfulcircles;
 
 import javafx.animation.KeyFrame;
